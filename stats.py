@@ -16,3 +16,6 @@ def pass_count(marks, pass_mark):
 
 def percentage(marks):
     return round(average(marks), 2)
+
+def lowest(marks):
+    return min(marks)
