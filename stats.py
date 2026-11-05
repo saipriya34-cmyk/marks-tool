@@ -19,3 +19,4 @@ def percentage(marks):
 
 def lowest(marks):
     return min(marks)
+# TODO: check pass mark validation
