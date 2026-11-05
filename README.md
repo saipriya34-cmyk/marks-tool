@@ -8,3 +8,6 @@ python3 app.py
 
 ## Settings
 PASS_MARK is the minimum mark counted as a pass. See .env.example.
+
+## Usage Instructions
+python3 app.py
